@@ -1,0 +1,5 @@
+Django==2.2.17
+gunicorn==20.0.4
+mysqlclient @ file:///D:/VSCode/FinalProject/fnproject/mysqlclient-1.4.6-cp38-cp38-win32.whl
+pytz==2020.4
+sqlparse==0.4.1
